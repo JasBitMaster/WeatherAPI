@@ -1,3 +1,3 @@
 # Weather Interface
 
-Demo Mobile App for interfacing with weather data API
+Demo Mobile App for interfacing with weather data API.
